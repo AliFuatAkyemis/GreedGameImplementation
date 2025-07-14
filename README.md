@@ -1,3 +1,5 @@
+THIS PROJECT WAS CREATED BY MURAT AK (I only implemented a player class)
+
 # Greed Game - Discrete Mathematics II Programming Assignment 1
 
 ## 📌 Overview
