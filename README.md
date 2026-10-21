@@ -1,5 +1,7 @@
 THIS PROJECT WAS CREATED BY MURAT AK (I only implemented a player class)
 
+**Orijinal Repo**: [[https://github.com/muratakcs/GreedGame]]
+
 # Greed Game - Discrete Mathematics II Programming Assignment 1
 
 ## 📌 Overview
